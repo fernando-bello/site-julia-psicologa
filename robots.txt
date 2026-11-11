@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julialuisapsicologa.com.br/sitemap.xml
